@@ -1,7 +1,7 @@
 {
   "type": "sqljs",
-  "location": "data",
-  "autoSave": false,
+  "location": ":memory:",
+  "autoSave": true,
   "entities": ["src/**/entities/**{.ts,.js}"],
   "factories": ["src/**/factories/**{.ts,.js}"],
   "seeds": ["src/**/seed{.ts,.js}"],
