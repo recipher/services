@@ -6,5 +6,5 @@
   "factories": ["src/**/factories/**{.ts,.js}"],
   "seeds": ["src/**/seed{.ts,.js}"],
   "synchronize": true,
-  "logging": true
+  "logging": false
 }
