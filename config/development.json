@@ -1,0 +1,22 @@
+{
+  "port": 4200,
+
+  "authentication": {
+    "jwt": {
+      "key": "secret"
+    }
+  },
+  
+  "sendgrid": { 
+    "apikey": "xyz"
+  },
+
+  "s3": {
+    "endpoint": "ams3.digitaloceanspaces.com",
+    "bucket": "assets-mentor"
+  },
+
+  "mail": {
+    "sender": "johnny@recipher.co.uk"
+  }
+}

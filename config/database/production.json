@@ -1,0 +1,17 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "database": "postgres",
+  "username": "admin",
+  "password": "secret",
+  "entities": ["src/**/entities/**{.ts,.js}"],
+  "factories": ["src/**/factories/**{.ts,.js}"],
+  "seeds": ["src/**/seed{.ts,.js}"],
+  "synchronize": false,
+  "logging": false,
+  "migrations": ["migrations/*.ts"],
+  "cli": {
+    "migrationsDir": "migrations"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "sqljs",
+  "autoSave": false,
+  "entities": ["src/**/entities/**{.ts,.js}"],
+  "factories": ["src/**/factories/**{.ts,.js}"],
+  "seeds": ["src/**/seed{.ts,.js}"],
+  "synchronize": true,
+  "logging": ["error"],
+  "logger": "debug"
+}
