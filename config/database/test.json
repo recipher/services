@@ -1,5 +1,6 @@
 {
   "type": "sqljs",
+  "location": "data",
   "autoSave": false,
   "entities": ["src/**/entities/**{.ts,.js}"],
   "factories": ["src/**/factories/**{.ts,.js}"],
