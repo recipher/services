@@ -1,6 +1,6 @@
 {
   "type": "sqljs",
-  "location": ":memory:",
+  "location": "data",
   "autoSave": true,
   "entities": ["src/**/entities/**{.ts,.js}"],
   "factories": ["src/**/factories/**{.ts,.js}"],
