@@ -40,7 +40,7 @@
     "@nestjs/typeorm": "^7.0.0",
     "@sendgrid/mail": "^6.3.1",
     "@types/lodash": "^4.14.134",
-    "aws-sdk": "^2.480.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "^3.5.5",
     "class-transformer": "^0.2.0",
