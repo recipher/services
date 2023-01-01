@@ -59,9 +59,9 @@
     "rxjs": "^6.2.2",
     "sql.js": "^0.5.0",
     "swagger-ui-express": "^4.1.4",
-    "ts-loader": "^4.4.2",
+    "ts-loader": "^9.4.2",
     "ts-node": "^7.0.1",
-    "tsconfig-paths": "^3.5.0",
+    "tsconfig-paths": "^3.10.1",
     "typeorm": "^0.2.24",
     "typescript": "^3.0.1"
   },
